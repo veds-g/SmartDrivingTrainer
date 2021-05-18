@@ -28,20 +28,20 @@ Making India ready for the decade of autonomy
 
 ## Installation
 
-Create an react native CLI application named SDT
+- Create an react native CLI application named SDT
 ```sh
 npx react-native init SDT
 ```
 
-Modify the files in Android folder of your application with the given files, rest of the code can be copied without any modifications.
+- Modify the files in Android folder of your application with the given files, rest of the code can be copied without any modifications.
 
-Install the dependencies and node_modules mentioned in requirements.txt.
-Setup a firebase project and replace the configuration keys.
+- Install the dependencies and node_modules mentioned in requirements.txt.
+- Setup a firebase project and replace the configuration keys.
 
-Navigate to your node_modules/react-native/Libraries/Core/Timers/JSTimers.js file.
-Look for the variable MAX_TIMER_DURATION_MS
-Change its value to 10000 * 1000
-Save the changes (with auto format turned off) and re-build your app.
+- Navigate to your node_modules/react-native/Libraries/Core/Timers/JSTimers.js file.
+- Look for the variable MAX_TIMER_DURATION_MS
+- Change its value to 10000 * 1000
+- Save the changes (with auto format turned off) and re-build your app.
 
 Finally -
 ```sh
