@@ -8,5 +8,3 @@ npm install firebase
 npm i react-native-image-crop-picker --save
 npm install @react-native-firebase/storage
 npm install --save @react-native-firebase/app
-
-Create a react prject named SDT
