@@ -57,20 +57,27 @@ npx react-native run-android
 
 
 -Dashboard to start a new drive and calculate score
+
+
 -![Dashboard](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/dashboard.png?raw=true)
 
 
 -Logs to view previous drives scores
+
+
 -![Logs](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/logs2.png?raw=true)
 
 
 -Profile to update personal details
+
+
 -![Profile](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/profile.png?raw=true)
 
 
 -View RealTime updates and scores
--![realtime](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/realtime.png?raw=true) 
--![score](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/score.png?raw=true)
+
+
+-![realtime](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/realtime.png?raw=true) -![score](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/score.png?raw=true)
 
 ## License
 
