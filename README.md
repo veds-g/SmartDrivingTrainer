@@ -9,7 +9,7 @@ Making India ready for the decade of autonomy
 - Check if a person is following the traffic rules.
 - Observe how the user reacts to the road signs while driving.
 - Provides real-time lane line detection.
-- Provides real-time drowsiness detection.
+- Provides real-time drowsiness detection (https://github.com/DevilAeron/Drowsiness-Detection-System).
 - Detect road signs and obstacles and guide appropriately.
 - Make sure the user’s vehicle maintains safe distance from others.
 - Log the scores.
