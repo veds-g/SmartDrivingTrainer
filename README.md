@@ -53,7 +53,7 @@ npx react-native run-android
 -Basic login and signup for entry using firebase authentication
 
 
--![Login](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/login.png?raw=true =190*425) -![SignUp](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/signup.png?raw=true)
+-![Login](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/login.png?raw=true) -![SignUp](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/signup.png?raw=true)
 
 
 -Dashboard to start a new drive and calculate score
